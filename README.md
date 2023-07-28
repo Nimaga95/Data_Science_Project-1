@@ -1,4 +1,4 @@
-# Data_Science_Project-1
+# Data_science_project
 ### Objective
 Data visualization using various charts with Python to visualize different aspects of the data based on the college major.
 ### Context 
