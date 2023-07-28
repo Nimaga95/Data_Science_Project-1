@@ -36,5 +36,5 @@ Full_time - Number of graduates working 35 hours or more
 
 Part_time - Number of graduates working less than 35 hours
 
-### NB : Project_in_progress
+
 
